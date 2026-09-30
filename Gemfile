@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2"
 gem "jekyll-data", "~> 1.1"
-gem "jekyll-feed", "~> 0.17.0"
+gem "jekyll-feed", "~> 0.18.0"
 gem "jekyll-gist", "~> 1.5"
 gem "jekyll-include-cache", "~> 0.3.0"
 gem "jekyll-octicons", "~> 19.0"
